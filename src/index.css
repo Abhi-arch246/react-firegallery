@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Caster+One&display=swap');
+
+
+body {
+  margin: 0;
+  font-family: 'Caster One', cursive;
+}
+
+.progress-bar{
+  height: 8px;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+
+
+.single-img{
+opacity: 0.8;
+transition: ease-out;
+}
+
+.single-img:hover{
+  opacity: 1;
+  transition: ease-out;
+}
+
+
