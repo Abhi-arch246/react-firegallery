@@ -1,7 +1,7 @@
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import Form from './components/Form'
-import React, { useState } from 'react'
+import React from 'react'
 import Header from './components/Header'
 import ImagesList from './components/ImagesList'
 function App() {
